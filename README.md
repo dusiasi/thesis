@@ -25,18 +25,18 @@ MongoDB, Mongoose.
 git clone https://github.com/dusiasi/thesis.git
 
 2.Navigate to the client:
-cd client
+`cd client`
 
-2.Install dependencies with npm install and create a .env file in the root directory. Add the necessary environment variables such as API keys.
+2.Install dependencies with `npm install` and create a `.env file` in the root directory. Add the necessary environment variables such as API keys.
 
-3.Run the client: npm run dev
+3.Run the client: `npm run dev`
 
 4.Navigate to server: 
-cd server
+`cd server`
 
-5.Install dependencies with npm install and Create a .env file in the root directory. Add the necessary environment variables such as API keys and database connection strings.
+5.Install dependencies with `npm install` and create a `.env file` in the root directory. Add the necessary environment variables such as API keys and database connection strings.
 
-6.Run the server: npm start
+6.Run the server: `npm start`
 
 ## Collaborators
 
@@ -47,6 +47,7 @@ Alastair Fraser, https://github.com/alastair-simon
 Joe Copplestone, https://github.com/Strasseneck
 
 Nadav Berenstain, https://github.com/NadavBerenstain
+
 
 
 
