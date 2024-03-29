@@ -21,15 +21,17 @@ Database
 MongoDB, Mongoose.
 
 ## Installation
-1.Clone this repo and enter!
+1.Clone this repo!
 git clone https://github.com/dusiasi/thesis.git
+
+2.Navigate to the client:
 cd client
 
-2.Install dependencies with npm install and Create a .env file in the root directory. Add the necessary environment variables such as API keys.
+2.Install dependencies with npm install and create a .env file in the root directory. Add the necessary environment variables such as API keys.
 
 3.Run the client: npm run dev
 
-4.Navigate to server 
+4.Navigate to server: 
 cd server
 
 5.Install dependencies with npm install and Create a .env file in the root directory. Add the necessary environment variables such as API keys and database connection strings.
