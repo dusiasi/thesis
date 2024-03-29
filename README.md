@@ -1,18 +1,43 @@
 # Tape FM
 
-Tape FM is a co-created music mixtape streaming web application. Users are part of channels where they share music mixes with each other and listen them.
+Tape FM is a collaborative music mixtape streaming web application. Users join channels where they can share music mixes, invite friends to their channels, upload mixes, add comments, and stay updated on the latest activities. They can also listen the mixes from different channels, making it a modern twist on the classic mixtapes from the 90s.
 
-##Getting Started
+<img width="198" alt="Bildschirmfoto 2024-03-29 um 17 25 50" src="https://github.com/dusiasi/thesis/assets/160134285/5c6d451f-d629-4bc0-8d22-971448120c94">
 
-##Tech Stack
-###Front End:
+## Getting Started
+
+<img width="870" alt="Bildschirmfoto 2024-03-29 um 16 38 50" src="https://github.com/dusiasi/thesis/assets/160134285/477817c3-45cc-4f7f-b382-c0c3c4278ba3">
+
+<img width="1429" alt="Bildschirmfoto 2024-03-29 um 16 43 45" src="https://github.com/dusiasi/thesis/assets/160134285/96a34d49-a2a6-40b0-8af5-1b8e0c96643c">
+
+## Tech Stack
+Front End:
 React, Tailwind CSS, Typescript, Howler, Wavesurfer JS, Cloudinary.
 
-###Back End:
+Back End:
 Node.js, Express, Typescript.
 
-###Database
+Database
 MongoDB, Mongoose.
+
+## Installation
+Clone this repo and enter!
+git clone https://github.com/dusiasi/thesis.git
+
+For Frontend:
+cd client
+Install dependencies with npm install
+Create a .env file in the root directory. Add the necessary environment variables such as API keys.
+Run the client: npm run dev
+
+For Backend:
+cd server
+Create a .env file in the root directory. Add the necessary environment variables such as API keys and database connection strings.
+Install dependencies with npm install
+Run the server: npm start
+
+
+## Collaborators
 
 
 
