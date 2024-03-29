@@ -1,11 +1,27 @@
 # Tape FM
 
-Thesis project of Codeworks Software Engineering Immersive, Berlin Cohort.
+Tape FM is a co-created music mixtape streaming web application. Users are part of channels where they share music mixes with each other and listen them.
 
-Tape FM is a co-created music mixtape streaming platform. Users are part of groups where they share music mixes with each other.
+##Getting Started
 
-##Front End:
-React, Tailwind CSS, Typescript, potentially React Native. Howl.
+##Tech Stack
+###Front End:
+React, Tailwind CSS, Typescript, Howler, Wavesurfer JS, Cloudinary.
 
-##Back End:
-MongoDB. Mongoose, GraphQL, Express. Typescript.
+###Back End:
+Node.js, Express, Typescript.
+
+###Database
+MongoDB, Mongoose.
+
+
+
+
+
+
+
+
+
+
+
+Tape is live and deployed at https://tapefm.netlify.app.
