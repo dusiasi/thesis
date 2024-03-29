@@ -38,7 +38,13 @@ cd server
 
 ## Collaborators
 
+Johanna Kveton, https://github.com/JayCeeKay1991
 
+Alastair Fraser, https://github.com/alastair-simon
+
+Joe Copplestone, https://github.com/Strasseneck
+
+Nadav Berenstain, https://github.com/NadavBerenstain
 
 
 
