@@ -40,9 +40,11 @@ git clone https://github.com/dusiasi/thesis.git
 
 ## Collaborators
 
-Johanna Kveton, https://github.com/JayCeeKay1991
-
 Alastair Fraser, https://github.com/alastair-simon
+
+Asiye Duman, https://github.com/dusiasi
+
+Johanna Kveton, https://github.com/JayCeeKay1991
 
 Joe Copplestone, https://github.com/Strasseneck
 
